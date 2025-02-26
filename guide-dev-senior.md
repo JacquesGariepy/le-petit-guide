@@ -1,4 +1,4 @@
-Guide comment travailler comme un développeur senior
+# Guide comment travailler comme un développeur senior
 
 ## 1. Introduction générale
 
